@@ -18,7 +18,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<json.webtoken.version>0.9.1</json.webtoken.version>
-		<migrate.liquibase.version>3.6.3</migrate.liquibase.version>
+		<migrate.liquibase.version>4.8.0</migrate.liquibase.version>
 	</properties>
 
 	<dependencies>
